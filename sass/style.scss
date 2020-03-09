@@ -1,0 +1,22 @@
+body {
+    background-image: url('https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-size: cover;
+    //background-position: center center;
+    height: 100vh;
+}
+
+.keys {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    color: #fff;
+    padding-top: 50vh;
+}
+
+.key {
+    padding: 0 40px;
+    font-size: 30px;
+    font-family: monospace;
+    border: 2px solid;
+    
+}
